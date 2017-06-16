@@ -14,7 +14,7 @@ def reset():
     no_generations = 100
     no_parents = 20
     temperature = 1.0
-    mutation_rate = 0.01
+    mutation_rate = 0.1
 
 reset()
 
